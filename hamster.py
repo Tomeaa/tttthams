@@ -30,7 +30,7 @@ print (output)
 JOK(m+f"\033[1;32m\n                  『ᴍᴀᴅᴇ ʙʏ : JOKER ™ \n                         ᴛᴇʟᴇɢʀᴀᴍ: @Y_1oo1 \n                            ᴄʜᴀɴɴᴇʟ : @TEAM_JO  』", 0.07, True)
 JOK(c+f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━", 0.07, True)
 bot = ('5142681325:AAHeXfwlQrK2mdT47ZBt-4p2GvmI9hqnG_o')
-acc = ('5840575626')
+acc = ('843841687')
 def load_tokens(filename):
   with open(filename, 'r') as file:
       return [line.strip() for line in file]
